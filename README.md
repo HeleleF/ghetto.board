@@ -1,3 +1,11 @@
+# plans
+
+- go to pnpm insteaf of yarn
+- update to the latest and greatest stuff if possible (newer deps)
+- update images etc and assets
+- either remove CI stuff or update it so it works for us
+
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # Kenku FM
